@@ -1,0 +1,5 @@
+# Platform images to bring into the enclave. Tags are resolved to digests.
+nginx:1.27
+quay.io/prometheus/prometheus:v2.54.1
+grafana/grafana:11.2.0
+registry.k8s.io/ingress-nginx/controller:v1.11.2
